@@ -18,6 +18,7 @@ the cutting area while still maintaining proper cooling of the spindle.
 ## See also
 
 - [Project on Thingiverse](https://www.thingiverse.com/thing:7041669).
+- [Project on Printables](https://www.printables.com/model/1300225-cnc-spindle-air-deflector).
 
 ## Authors
 
